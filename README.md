@@ -1,4 +1,4 @@
-<div align="center">Miuul Machine Learning Summer Camp '23</div>
+<header align="center"> Miuul Machine Learning Summer Camp '23</header>
 
 Welcome to the Miuul Machine Learning Summer Camp '23 repository! This repository contains exercises and answers for every part of the camp, provided in Jupyter Notebook files.
 
